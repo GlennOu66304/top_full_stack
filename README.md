@@ -1,9 +1,9 @@
 # Topfullstack 
 
 # Server
-
+[Server](https://github.com/GlennOu66304/top_full_stack/tree/server). 
 # Admin
-
+[admin](https://github.com/GlennOu66304/top_full_stack/blob/main/admin/README.md)
 # WEB
 
 
