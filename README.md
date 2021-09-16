@@ -99,7 +99,21 @@ tab + command
 [[第五章]NodeJs+VueJs全栈开发王者荣耀官网(Express+ElementUI)](https://www.bilibili.com/video/BV17t411N7kQ)
 
 
-mr beast
+## WEB
 
-bob marley
+### arrayProp deprecation and usage 
+
+[arrayProp deprecation and usage ](https://github.com/typegoose/typegoose/issues/318)  
+
+## Cards
+
+[Cards](https://vuetifyjs.com/en/components/cards/)
+
+## [Nuxt.js: Module Error (from ./node_modules/eslint-loader/index.js):](https://stackoverflow.com/questions/52571675/nuxt-js-module-error-from-node-modules-eslint-loader-index-js)
+
+## [Nuxt.js Learning](https://gist.github.com/GlennOu66304/f9ec2e361e3f16f2eb7e048618a9c649) 
+
+## Source Code:
+
+[WEB](https://github.com/GlennOu66304/web)
 
