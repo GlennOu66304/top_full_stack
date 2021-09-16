@@ -107,6 +107,16 @@ tab + command
 
 [在 Mac 上管理窗口](https://support.apple.com/zh-cn/guide/mac-help/mchlp2469/mac)
 
+## Sync the VS code setting to new device
+
+You just need to login your github account into Setting sync extension, then 
+
+sync it to finish the sync process.
+
+[三分钟教你同步 Visual Studio Code 设置](https://juejin.cn/post/6844903679640731662)
+
+[【8】同步vscode配置和插件【导入导出】、再也不用担心换电脑重新安装插件了！](https://blog.csdn.net/sinat_39620217/article/details/116797026)  
+
 ## Reference:
 服务端+后台
 [第一章：(nestjs)NodeJs+VueJs全栈开发《全栈之巅》视频网站+app+小程序](https://www.bilibili.com/video/BV18E41127N4?p=2)
